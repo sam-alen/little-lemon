@@ -10,9 +10,8 @@ export default function Testimonials() {
                     <p className="reviewer-rating">5/5</p>
                 </div>
                 <div className="review-text">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa massa,
-                        semper sed enim at, faucibus mattis lorem. Donec vehicula, leo ut auctor ullamcorper,
-                        diam tortor dignissim velit, ac iaculis libero lacus non diam. </p>
+                    <p>Little Lemon offers a refreshing culinary journey that delights the senses. From the moment you step inside,
+                         you're greeted by a vibrant atmosphere that exudes warmth and charm. </p>
                 </div>
             </div>
             <div className="testimonial">
@@ -22,9 +21,8 @@ export default function Testimonials() {
                     <p className="reviewer-rating">5/5</p>
                 </div>
                 <div className="review-text">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa massa,
-                        semper sed enim at, faucibus mattis lorem. Donec vehicula, leo ut auctor ullamcorper,
-                        diam tortor dignissim velit, ac iaculis libero lacus non diam. </p>
+                    <p>The menu at Little Lemon is a celebration of fresh, seasonal ingredients expertly 
+                        crafted into dishes that are both inventive and comforting.  </p>
                 </div>
             </div>
             <div className="testimonial">
@@ -34,9 +32,9 @@ export default function Testimonials() {
                     <p className="reviewer-rating">5/5</p>
                 </div>
                 <div className="review-text">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa massa,
-                        semper sed enim at, faucibus mattis lorem. Donec vehicula, leo ut auctor ullamcorper,
-                        diam tortor dignissim velit, ac iaculis libero lacus non diam. </p>
+                    <p>Beyond the delicious food, the service at Little Lemon is top-notch.
+                         The staff are friendly, attentive, and knowledgeable, adding to the overall
+                          dining experience.</p>
                 </div>
             </div>
         </div>
